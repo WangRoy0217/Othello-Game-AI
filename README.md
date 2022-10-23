@@ -30,3 +30,6 @@ In general, when it comes to search problem, the higher level we search from, th
 
 
 _For further detailed methods description, please see `Othello_Game.pptx`_
+
+## Starting the code
+---

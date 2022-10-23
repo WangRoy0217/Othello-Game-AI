@@ -27,3 +27,6 @@ In Min-max tree, the odd & even level are represented as two players are called 
 
 ### Alpha-Beta Pruning
 In general, when it comes to search problem, the higher level we search from, the more computing cost we get. Alpha-Beta Pruning is an optimization technique for minimax algorithm. The core conception is pruning unnecessary branches to reduce computing cost. Through add two variables α & β (α = the best value that the maximizer currently can guarantee at that level or above, β = best value that the minimizer currently can guarantee at that level or above), we can know whether there already exists a better move available. If it exists, pruning the subtree. 
+
+
+_For further detailed methods description, please see `Othello_Game.pptx`_
